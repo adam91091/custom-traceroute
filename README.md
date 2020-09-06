@@ -10,7 +10,8 @@ Traceroute is a command line Linux diagnostic network tool for discovering possi
 * [Comments](#comments)
 
 ## General info
-* All routers present on path between sender and receiver are printed to stdout in following format: _<router ordering number> <router IP address> <average reponse time>_ See below screenshot for more details.
+* All routers present on path between sender and receiver are printed to stdout in following format: 
+_router ordering number router IP address average reponse time_
 
 ![Example of usage](./img/traceroute_example.png)
 
